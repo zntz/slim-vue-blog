@@ -1,15 +1,15 @@
-# slim-vue
+# slim-vue-blog
 
-Starter Application (SPA) built on Slim Framework in API and vue.js UI based on the KIT Creative Tim https://www.creative-tim.com/
+Starter Application (SPA) built on Slim Framework in API and vue.js UI
 
 ## Install the dependencies
 
 ```bash
 git clone https://github.com/vzx7/slim-vue.git [your-app-folder-name]
-cd your-app-folder-name
+cd [your-app-folder-name]
 composer install
 cd src/Client
-npm i
+npm install
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
