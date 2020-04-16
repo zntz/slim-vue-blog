@@ -1,0 +1,6 @@
+.idea/
+/coverage/
+/vendor/
+/logs/*
+/src/Client/node_modules/
+/src/Client/node_modules/*
